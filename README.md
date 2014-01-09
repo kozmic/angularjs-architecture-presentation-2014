@@ -1,13 +1,13 @@
-angularjs-architecture-presentation-2014
-========================================
+# angularjs-architecture-presentation-2014
+
 
 Presentation about how to structure your AngularJS code to make small reusable components.
 
 
-== Outline
+## Outline
 
 
-== Notes
+## Notes
 - Namespaces, ES6 modules, prototype, requirejs, duplicate module name
 - Folder structure in bower components and applications (component/pages).
 - How to structure your Bower components.
